@@ -37,10 +37,16 @@ SpriteAtlas:
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
-    packedSpriteRenderDataKeys: []
+    packedSpriteRenderDataKeys:
+    - 660ccba844779754eb36ab193e31d613: 21300000
+    - 93bef2ff5cc4fe249b1f6b1a530060d7: 21300000
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites: []
-  m_PackedSpriteNamesToIndex: []
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 660ccba844779754eb36ab193e31d613, type: 3}
+  - {fileID: 21300000, guid: 93bef2ff5cc4fe249b1f6b1a530060d7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - drop__1_
+  - pug__1_
   m_RenderDataMap: {}
   m_Tag: PugAtlas
   m_IsVariant: 0
